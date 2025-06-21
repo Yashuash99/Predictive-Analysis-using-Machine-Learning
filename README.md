@@ -16,3 +16,7 @@ TASK DESCRIPTION: The Mushroom Classifier is a supervised machine learning proje
 
 The folder structure is organized into subdirectories for clarity: a data/ folder containing the dataset, a models/ folder holding the trained model files, a mushroom_classifier.py script that integrates all functionalities from preprocessing to evaluation, and a requirements.txt file listing the dependencies used in the project. It also reflects a real-world scenario where machine learning models can assist in making quick and reliable decisions with limited input data. This task helped reinforce the importance of data preprocessing, the impact of choosing the right algorithm, and the role of visualization in model interpretation, making it a well-rounded and insightful learning experience.
 
+OUTPUT: ![Image](https://github.com/user-attachments/assets/51f67e18-55b5-4e50-b36c-516ac0426bbc)
+
+
+
