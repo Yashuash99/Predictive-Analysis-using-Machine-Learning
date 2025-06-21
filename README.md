@@ -18,5 +18,7 @@ The folder structure is organized into subdirectories for clarity: a data/ folde
 
 OUTPUT: ![Image](https://github.com/user-attachments/assets/51f67e18-55b5-4e50-b36c-516ac0426bbc)
 
+![Image](https://github.com/user-attachments/assets/4a3d23b4-4145-4b62-a053-cfc40f2da21d)
+
 
 
